@@ -14,8 +14,8 @@
 }
 #carouselExampleIndicators{
     display: block;
-    background: #F1F1F3;
-    color: black;
+    background: rgb(28, 28, 29);
+    color: white;
     margin-top: 30px;
 }
 .card-another{
