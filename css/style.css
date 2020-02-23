@@ -1,0 +1,41 @@
+.nav-entry{
+    width: 100%;
+    background: #343A40;
+}
+.card{
+    border: none;
+    display: block;
+    box-shadow: 5px 5px 10px lightgrey;
+    margin-top: 20px;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px  15px gray;
+}
+#carouselExampleIndicators{
+    display: block;
+    background: #F1F1F3;
+    color: black;
+    margin-top: 30px;
+}
+.card-another{
+    margin-top: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.countdown img{
+    height:350px;
+}
+.countdown{
+    height: 350px;
+}
+#upcoming{
+    margin-top: 30px;
+}
+footer{
+    margin-top: 30px;
+    background: #343A40;
+    overflow: hidden;
+    color: white;
+}
